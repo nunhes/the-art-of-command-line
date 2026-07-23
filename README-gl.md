@@ -21,7 +21,7 @@
     - [Consellos e trucos de Cygwin](#consellos-e-trucos-de-cygwin)
   - [Máis recursos](#máis-recursos)
   - [Aviso legal](#aviso-legal)
-  - [Licensza](#licensza)
+  - [Licenza](#licenza)
 
 
 ![curl -s 'https://raw.githubusercontent.com/jlevy/the-art-of-command-line/master/README.md' | egrep -o '`\w+`' | tr -d '`' | cowsay -W50](cowsay.png)
@@ -626,7 +626,7 @@ Estes elementos son relevantes *só* en Windows.
 Agás en tarefas moi pequenas, o código escríbese para que outros poidan lelo. Co poder ven a responsabilidade. O feito de que poidas facer algo en Bash non significa necesariamente que debas facelo! ;)
 
 
-## Licensza
+## Licenza
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
